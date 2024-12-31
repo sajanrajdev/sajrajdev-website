@@ -1,0 +1,18 @@
+[
+    {
+      "id": "1",
+      "title": "Understanding Blockchain Technology",
+      "excerpt": "An in-depth look at the fundamentals of blockchain...",
+      "date": "2023-04-15",
+      "tags": ["blockchain", "cryptocurrency", "technology"],
+      "url": "/blog/understanding-blockchain"
+    },
+    {
+      "id": "2",
+      "title": "Smart Contracts Explained",
+      "excerpt": "Exploring the concept and applications of smart contracts...",
+      "date": "2023-05-20",
+      "tags": ["smart-contracts", "ethereum", "blockchain"],
+      "url": "/blog/smart-contracts-explained"
+    }
+  ]
